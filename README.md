@@ -1,5 +1,5 @@
-Jason Horner
-------------
+## Jason Horner
+
 ##### Global Thought Leader and International Man of Leisure
 ------------------------------------------------------------
 Hi, my name is Jason I'm a Independent consultant and trainer focused on the Azure Data Platform. I spend most of my day helping clients solve business problems mostly in the Data and Advanced Analytics spaces. Sometimes this involves various and sundry cloud technologies including Azure Data Factory, Azure Synapse Analytics, Azure Data Lake Store, Azure Databricks, HDInsight and Azure SQL Database. I'm fluent in several languages including: SQL, C#, Python, and PowerShell.
@@ -17,6 +17,9 @@ I love to speak about a variety of topics
 ### Papa Needs Brand New Shoes
 Always looking for new meaningful and interesting work: 
 [me@jasonhorner.com](mailto:me@jasonhorner.com)
+
+### Steal My Code
+Below is a ling to some of my gists: TBD
 
 <!--
 **jasonhorner/jasonhorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
