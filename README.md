@@ -19,7 +19,10 @@ Always looking for new meaningful and interesting work:
 [me@jasonhorner.com](mailto:me@jasonhorner.com)
 
 ### Steal My Code
-Below is a link to some of my gists: TBD
+Below is a link to some of my gists: 
+
+Chcocolately workstation Build
+http://bit.ly/mychocows
 
 <!--
 **jasonhorner/jasonhorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
