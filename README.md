@@ -8,23 +8,23 @@ I'm a Microsoft Certified Master of SQL Server (MCM) and have been recognized fo
 
 In my off hours I like to snowboard, karaoke, ride roller coasters and play arcade games
 
-
-### I Can Talk Nerdy For You
-I love to speak about a variety of topics 
-[sessionize - jason horner](https://sessionize.com/jason-horner/)
-
-
-
-
 ### Papa Needs Brand New Shoes
-Always looking for new meaningful and interesting work: 
-[me@jasonhorner.com](mailto:me@jasonhorner.com)
+
+Always looking for new, meaningful, and interesting work!
+
+📧 [hello@emptycupconsulting.com](mailto:hello@emptycupconsulting.com)
+
+🌐 [Visit the Empty Cup Consulting website](https://emptycupconsulting.com)
 
 ### Steal My Code
 Below is a link to some of my gists: 
 
 Chcocolately workstation Build
 http://bit.ly/mychocows
+
+### I Can Talk Nerdy For You
+I love to speak about a variety of topics 
+[sessionize - jason horner](https://sessionize.com/jason-horner/)
 
 <!--
 **jasonhorner/jasonhorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
