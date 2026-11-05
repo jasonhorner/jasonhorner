@@ -20,7 +20,9 @@ Always looking for new, meaningful, and interesting work!
 
 ## Résumé
 
-[Link TBD](#)
+📄 [View my résumé](#)
+
+🏅 [Microsoft Learn Certification Transcript](#)
 
 ## Steal My Code
 Below is a link to some of my gists: 
