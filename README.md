@@ -25,8 +25,6 @@ Always looking for new, meaningful, and interesting work!
 ## Steal My Code
 Below is a link to some of my gists: 
 
-Chcocolately workstation Build
-http://bit.ly/mychocows
 
 ## I Can Talk Nerdy For You
 I love to speak about a variety of topics 
