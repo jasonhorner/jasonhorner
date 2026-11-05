@@ -10,7 +10,7 @@ I've been doing this long enough to have collected a few letters after my name. 
 
 When I'm not knee-deep in data, you'll probably find me snowboarding, singing karaoke, riding roller coasters, or playing arcade games. Sometimes all four, though usually not at the same time.
 
-### Papa Needs Brand New Shoes
+## Papa Needs Brand New Shoes
 
 Always looking for new, meaningful, and interesting work!
 
@@ -18,13 +18,17 @@ Always looking for new, meaningful, and interesting work!
 
 🌐 [Visit the Empty Cup Consulting website](https://emptycupconsulting.com)
 
-### Steal My Code
+## Résumé
+
+[Link TBD](#)
+
+## Steal My Code
 Below is a link to some of my gists: 
 
 Chcocolately workstation Build
 http://bit.ly/mychocows
 
-### I Can Talk Nerdy For You
+## I Can Talk Nerdy For You
 I love to speak about a variety of topics 
 [sessionize - jason horner](https://sessionize.com/jason-horner/)
 
