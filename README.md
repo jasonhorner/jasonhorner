@@ -1,12 +1,14 @@
-## Jason Horner
+# Jason Horner
 
-##### Global Thought Leader and International Man of Leisure
+*Global Thought Leader and International Man of Leisure*
 
-Hi, my name is Jason I'm a Independent consultant and trainer focused on the Azure Data Platform. I spend most of my day helping clients solve business problems mostly in the Data and Advanced Analytics spaces. Sometimes this involves various and sundry cloud technologies including Azure Data Factory, Azure Synapse Analytics, Azure Data Lake Store, Azure Databricks, HDInsight and Azure SQL Database. I'm fluent in several languages including: SQL, C#, Python, and PowerShell.
+Hi, I'm Jason! I'm an independent consultant, trainer, and speaker, and the founder of [Empty Cup Consulting](https://emptycupconsulting.com).
 
-I'm a Microsoft Certified Master of SQL Server (MCM) and have been recognized for my technical excellence and evangelism efforts by Microsoft by being previously awarded the Most Valuable Professional (MVP) for the 6 years.
+I spend my days helping organizations solve real business problems with data and technology. My work spans SQL Server, Microsoft Fabric, Azure, modern data engineering, analytics architecture, and AI. Whether it's designing a modern data platform, untangling a complicated data pipeline, or figuring out how to turn data into something genuinely useful, I enjoy tackling the hard problems.
 
-In my off hours I like to snowboard, karaoke, ride roller coasters and play arcade games
+I've been doing this long enough to have collected a few letters after my name. I'm a Microsoft Certified Master (MCM) in SQL Server, hold the Microsoft Fabric Analytics Engineer Associate (DP-600) and Fabric Data Engineer Associate (DP-700) certifications, and am a former six-year Microsoft Most Valuable Professional (MVP).
+
+When I'm not knee-deep in data, you'll probably find me snowboarding, singing karaoke, riding roller coasters, or playing arcade games. Sometimes all four, though usually not at the same time.
 
 ### Papa Needs Brand New Shoes
 
