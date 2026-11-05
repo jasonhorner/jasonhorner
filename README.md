@@ -25,22 +25,12 @@ Always looking for new, meaningful, and interesting work!
 ## Steal My Code
 Below is a link to some of my gists: 
 
+## Sometimes I Write Things Down
+Occasionally, I take a break from solving data problems long enough to write about them. You'll find technical articles, tutorials, and lessons learned along the way.
+
+📝 Read my technical blog
+
 
 ## I Can Talk Nerdy For You
 I love to speak about a variety of topics 
 [sessionize - jason horner](https://sessionize.com/jason-horner/)
-
-<!--
-**jasonhorner/jasonhorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
