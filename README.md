@@ -8,7 +8,7 @@ I spend my days helping organizations solve real business problems with data and
 
 I've been doing this long enough to have collected a few letters after my name. I'm a Microsoft Certified Master (MCM) in SQL Server, hold the Microsoft Fabric Analytics Engineer Associate (DP-600) and Fabric Data Engineer Associate (DP-700) certifications, and am a former six-year Microsoft Most Valuable Professional (MVP).
 
-When I'm not knee-deep in data, you'll probably find me snowboarding, singing karaoke, riding roller coasters, or playing arcade games. Sometimes all four, though usually not at the same time.
+When I'm not solving data problems, you'll probably find me snowboarding, singing karaoke, riding roller coasters, or playing arcade games. Sometimes all four, though usually not at the same time.
 
 ## Papa Needs Brand New Shoes
 
